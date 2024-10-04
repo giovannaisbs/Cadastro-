@@ -1,0 +1,71 @@
+{
+    "carne": [
+      {
+        "nome": "Picanha",
+        "descrição": "Corte nobre da carne bovina, conhecido por sua suculência e sabor marcante.",
+        "receita": "Tempere a picanha com sal grosso e asse na churrasqueira até atingir o ponto desejado."
+      },
+      {
+        "nome": "Costela",
+        "descrição": "Carne saborosa e macia, geralmente preparada assada ou cozida.",
+        "receita": "Tempere a costela com alho, sal e ervas. Asse em forno pré-aquecido a 180°C por cerca de 3 horas, coberta com papel alumínio."
+      },
+      {
+        "nome": "Fraldinha",
+        "descrição": "Corte bovino versátil e saboroso, ideal para churrascos e grelhados.",
+        "receita": "Tempere a fraldinha com sal e pimenta. Grelhe em fogo alto por cerca de 5-7 minutos de cada lado."
+      }
+    ],
+    "massa": [
+      {
+        "nome": "Espaguete à Bolonhesa",
+        "descrição": "Massa longa com molho de carne moída e tomate.",
+        "receita": "Cozinhe o espaguete. Em outra panela, refogue carne moída com cebola e alho, adicione molho de tomate e cozinhe até engrossar. Misture o molho com o espaguete cozido."
+      },
+      {
+        "nome": "Lasanha",
+        "descrição": "Camadas de massa intercaladas com molho de carne, queijo e molho bechamel.",
+        "receita": "Monte a lasanha com camadas de massa, molho à bolonhesa, molho bechamel e queijo. Asse em forno pré-aquecido a 180°C por cerca de 40 minutos."
+      },
+      {
+        "nome": "Penne ao Pesto",
+        "descrissão": "Massa curta com molho de manjericão, alho, pinoli e queijo parmesão.",
+        "receita": "Cozinhe o penne. No liquidificador, bata manjericão, alho, pinoli e parmesão com azeite até formar um molho homogêneo. Misture o molho com o penne cozido."
+      }
+    ],
+    "sobremesa": [
+      {
+        "nome": "Pudim de Leite",
+        "descrição": "Sobremesa clássica feita de leite condensado, ovos e caramelo.",
+        "receita": "Misture leite condensado, leite e ovos no liquidificador. Caramelize açúcar em uma forma de pudim, adicione a mistura e asse em banho-maria a 180°C por cerca de 1 hora."
+      },
+      {
+        "nome": "Torta de Limão",
+        "descrição": "Torta crocante com recheio cremoso de limão e cobertura de merengue.",
+        "receita": "Faça uma base com biscoito triturado e manteiga derretida. Recheie com uma mistura de leite condensado e suco de limão. Cubra com merengue e leve ao forno para dourar."
+      },
+      {
+        "nome": "Brigadeiro",
+        "descrição": "Doce de chocolate brasileiro feito com leite condensado, chocolate em pó e manteiga.",
+        "receita": "Cozinhe leite condensado, chocolate em pó e manteiga em fogo médio até desgrudar do fundo da panela. Deixe esfriar, faça bolinhas e passe no granulado."
+      }
+    ],
+    "bebida": [
+      {
+        "nome": "Caipirinha",
+        "descrição": "Coquetel brasileiro feito com cachaça, limão, açúcar e gelo.",
+        "receita": "Corte um limão em pedaços, adicione açúcar e macere. Adicione gelo e cachaça, misture bem e sirva."
+      },
+      {
+        "nome": "Refrigerante",
+        "descrição": "Bebida gaseificada disponível em vários sabores.",
+        "receita": "Misture água gaseificada com xarope de sabor de sua escolha. Sirva gelado."
+      },
+      {
+        "nome": "Suco de Laranja",
+        "descrição": "Suco natural de laranja, rico em vitamina C.",
+        "receita": "Esprema laranjas frescas e sirva o suco gelado."
+      }
+    ]
+  }
+  
